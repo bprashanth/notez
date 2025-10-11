@@ -104,3 +104,13 @@ To github.com:bprashanth/notez.git
  create mode 100644 080925.md
 To github.com:bprashanth/notez.git
    caa1175..cc1000d  main -> main
+[main dd6af55] 041025
+ 4 files changed, 149 insertions(+)
+ create mode 100644 110925.md
+ create mode 100644 150925.md
+ create mode 100644 180925.md
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
