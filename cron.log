@@ -138,3 +138,11 @@ To github.com:bprashanth/notez.git
  1 file changed, 4 insertions(+)
 To github.com:bprashanth/notez.git
    cec0abb..d36e288  main -> main
+[main 0296213] 041125
+ 2 files changed, 7 insertions(+)
+ create mode 100644 031125.md
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
