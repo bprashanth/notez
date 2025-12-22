@@ -168,3 +168,8 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
+[main 6d25ada] 091225
+ 2 files changed, 27 insertions(+)
+ create mode 100644 011225.md
+To github.com:bprashanth/notez.git
+   f0fa730..6d25ada  main -> main
