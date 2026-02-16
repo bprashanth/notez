@@ -314,3 +314,10 @@ To github.com:bprashanth/notez.git
  1 file changed, 4 insertions(+)
 To github.com:bprashanth/notez.git
    7aaf4eb..dac1dca  main -> main
+[main b9852a8] 150226
+ 1 file changed, 4 insertions(+)
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
